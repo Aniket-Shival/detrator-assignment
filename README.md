@@ -1,3 +1,14 @@
+The main code is present in App.js file.
+Deployed link is https://detrator-assignment-aniket.netlify.app/
+
+This is the assignment made for 'Detrator'. Website is made using Reaact.js and styling is done using MUI. Data is fetched from an online api and displayed on the screen in a more readable format.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
